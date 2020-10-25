@@ -1,3 +1,3 @@
 # Php
 Meu repositorio
-life is :computer : coffee : book.
+life is :computer : coffee and : book. 
